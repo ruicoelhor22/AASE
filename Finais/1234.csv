@@ -1,0 +1,5 @@
+Fold,Train Indices,Test Indices,Estimator
+0,t,t,RandomForestRegressor(random_state=1234)
+1,r,e,RandomForestRegressor(random_state=1234)
+2,a,s,RandomForestRegressor(random_state=1234)
+3,i,t,RandomForestRegressor(random_state=1234)
